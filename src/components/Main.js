@@ -1,6 +1,6 @@
 import React from 'react'
 import { Register }  from './Register'
-import './Main.css'
+import '../styles/Main.css'
 
 export class Main extends React.Component {
     render() {
